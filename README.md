@@ -5,7 +5,7 @@ Anime-Games-TV-Movies wallpapers
 Automatic install/update:
   
 ```shell
-bash -c "$(curl -LSs https://github.com/wallpapermgr/Anime-Games-TV-Movies/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/wallpapermgr/Anime-Games-TV-Movies/raw/main/install.sh)"
 ```
   
 Manual install:
